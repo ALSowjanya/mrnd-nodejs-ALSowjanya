@@ -1,5 +1,5 @@
 
-var getContactFileName = function(id) {
+var getContactFileName = function (id) {
 
 	// We assume contacts are stored under data sub-folder
 	return "data\\" + id + "-Contact.json";
